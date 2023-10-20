@@ -80,7 +80,7 @@ namespace Entekhab_Vahed
                 
             }
             else if (e.KeyCode == Keys.Enter && txtstdid.ContainsFocus)
-            {
+            { 
                 btnenter_Click(null, null);
                 
             }
